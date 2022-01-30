@@ -1,12 +1,8 @@
-### Welcome on my page buddy
+### Hey 👋
 
 here's my stats
 
 [![Alexandra's Stats](https://github-readme-stats.vercel.app/api?username=realmousy)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-So may i ask you
 
 ### **Where did you come from?**
 
