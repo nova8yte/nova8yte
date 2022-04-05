@@ -1,13 +1,17 @@
-### Hey 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realmousy&label=Profile%20views&color=0e75b6&style=flat" alt="realmousy" /> </p>
 
-here's my stats
+<h1 align="center">Welcome on my dev page</h1>
+<h3 align="center">I am an early Flutter adopter, crypto enthusiast, tech hobbyist, and just a good human being🐰</h3>
 
-[![Alexandra's Stats](https://github-readme-stats.vercel.app/api?username=realmousy)](https://github.com/anuraghazra/github-readme-stats)
 
-### **Where did you come from?**
 
-[![](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/Linkedin)](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/Linkedin/vote)
-[![](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/HH)](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/HH/vote)
-[![](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/Indeed)](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/Indeed/vote)
-[![](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/Random%20Search)](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/Random%20Search/vote)
-[![](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/ImUrFriend%F0%9F%8C%9A)](https://api.gh-polls.com/poll/01FQ1PC5ZETR5QBBCDBTXPTAZE/ImUrFriend%F0%9F%8C%9A/vote)
+- 🔭 I’m currently working at **PhononX**
+
+- 📫 How to reach me **tg: @wristdislocation**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmousy&show_icons=true&locale=en&layout=compact" alt="realmousy" /></p>
+
