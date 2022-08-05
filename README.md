@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realmousy&label=Profile%20views&color=0e75b6&style=flat" alt="onlymice" /> </p>
-
 <h1 align="center">Welcome on my dev page</h1>
 <h3 align="center">I am an early Flutter adopter, crypto enthusiast, tech hobbyist, and just a good human being🐰</h3>
 
