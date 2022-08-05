@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working at **PhononX**
+- 🔭 I'm currently looking for new opportunities
 
 - 📫 How to reach me **tg: @wristdislocation**
 
