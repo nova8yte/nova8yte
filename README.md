@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I'm currently looking for new opportunities
+- 🔭 I'm currently looking for new buddies
 
 - 📫 How to reach me **tg: @wristdislocation**
 
