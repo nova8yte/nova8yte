@@ -2,7 +2,7 @@
 
 ### Reality got lazy. Time to break it.  
 
-**Hijacking deep minds. Ripping the Metaverse wide open.**  
+**Hijacking deep minds. Ripping the Skulls wide open.**  
 No gods. No masters. No walled gardens.  
 
 🧠 **This is raw, open, and built to break boundaries.**  
