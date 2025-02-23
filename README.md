@@ -3,11 +3,7 @@
 ### Reality got lazy. Time to break it.  
 
 **Hijacking deep minds. Ripping the Skull wide open.**  
-No gods. No masters. No walled gardens.  
-
-🧠 **This is raw, open, and built to break boundaries.**  
-
-🌀 **Observer → Citizen → Creator → ???**  
+No walled gardens.
 
 💡 **Open. Raw. Unfiltered.**  
 If this clicks with you, it’s for you. If not, keep scrolling.  
