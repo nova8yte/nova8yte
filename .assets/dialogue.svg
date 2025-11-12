@@ -1,0 +1,80 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;display=swap');
+      
+      .dialogue-box { 
+        fill: rgba(10, 10, 10, 0.95); 
+        stroke: #FFD700; 
+        stroke-width: 2;
+        filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.4));
+      }
+      .corner { 
+        fill: none; 
+        stroke: #FFD700; 
+        stroke-width: 2; 
+      }
+      .prompt-text { 
+        font-family: 'Orbitron', monospace; 
+        font-size: 12px; 
+        fill: #FFD700; 
+        font-weight: 700;
+        letter-spacing: 0.5px;
+      }
+      .choice-box { 
+        fill: transparent; 
+        stroke: #FFD700; 
+        stroke-width: 1;
+        cursor: pointer;
+        transition: all 0.3s;
+      }
+      .choice-box:hover { 
+        fill: rgba(255, 215, 0, 0.2); 
+      }
+      .choice-text { 
+        font-family: 'Orbitron', monospace; 
+        font-size: 11px; 
+        fill: #FFD700;
+        pointer-events: none;
+      }
+      .arrow { 
+        fill: #FFA500; 
+        opacity: 0.6;
+        pointer-events: none;
+      }
+    </style>
+  </defs>
+  
+  <!-- Main container -->
+  <rect class="dialogue-box" x="0" y="0" width="600" height="200" rx="0"/>
+  
+  <!-- Corner brackets -->
+  <polyline class="corner" points="0,15 0,0 15,0"/>
+  <polyline class="corner" points="585,0 600,0 600,15"/>
+  <polyline class="corner" points="0,185 0,200 15,200"/>
+  <polyline class="corner" points="600,185 600,200 585,200"/>
+  
+  <!-- Prompt -->
+  <text class="prompt-text" x="20" y="35">SELECT_RESPONSE://</text>
+  
+  <!-- Choice 1: Stay on page (no link) -->
+  <a>
+    <rect class="choice-box" x="20" y="55" width="560" height="35"/>
+    <polygon class="arrow" points="30,67 35,72.5 30,78"/>
+    <text class="choice-text" x="45" y="77">Just looking around</text>
+  </a>
+  
+  <!-- Choice 2: Repositories -->
+  <a href="https://github.com/nova8yte?tab=repositories" target="_blank">
+    <rect class="choice-box" x="20" y="100" width="560" height="35"/>
+    <polygon class="arrow" points="30,112 35,117.5 30,123"/>
+    <text class="choice-text" x="45" y="122">What you got?</text>
+  </a>
+  
+  <!-- Choice 3: Telegram DMs -->
+  <a href="https://t.me/wristdislocation" target="_blank">
+    <rect class="choice-box" x="20" y="145" width="560" height="35"/>
+    <polygon class="arrow" points="30,157 35,162.5 30,168"/>
+    <text class="choice-text" x="45" y="167">[Offer Gig] Got a quick gig</text>
+  </a>
+</svg>
